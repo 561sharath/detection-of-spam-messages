@@ -1,0 +1,19 @@
+Social Spammer Detection via Convex Nonnegative Matrix Factorization
+
+Social spammer detection, matrix factorization, social regularization term
+
+IEEE Transaction on Machine Learning,Volume:10,Issue Date:02.May.2022
+
+
+
+Social_Spammer_Detection
+
+
+social_spammer_detection
+
+
+
+tweet_text_detection_type
+
+Tweet_Message
+Prediction
